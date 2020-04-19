@@ -1,0 +1,12 @@
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\bin\Debug\Proje Odevi.exe.config
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\bin\Debug\Proje Odevi.exe
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\bin\Debug\Proje Odevi.pdb
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje Odevi.csprojResolveAssemblyReference.cache
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje_Odevi.Form1.resources
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje_Odevi.Properties.Resources.resources
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje Odevi.csproj.GenerateResource.Cache
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje Odevi.exe
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje Odevi.pdb
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje_Odevi.Form2.resources
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje_Odevi.Form3.resources
+c:\users\tallyman\documents\visual studio 2015\Projects\Proje Odevi\Proje Odevi\obj\Debug\Proje_Odevi.Form4.resources
